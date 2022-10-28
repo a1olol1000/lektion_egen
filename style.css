@@ -1,0 +1,13 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+h6,
+.h6{
+    color: rgb(255, 255, 255);
+}
+.grid2{
+    display: grid;
+    grid-template-columns: 9fr 1fr;
+    
+}
